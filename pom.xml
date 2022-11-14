@@ -13,6 +13,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Spring Boot Logger</name>
   <description>A simple spring boot application that logs whatever is passed onto it</description>
+  <packaging>jar</packaging>
   <properties>
     <java.version>17</java.version>
   </properties>
